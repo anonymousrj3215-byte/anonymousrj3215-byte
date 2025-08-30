@@ -9,7 +9,7 @@
   
 <!-- Your Photo -->
 <a href="https://your-link-here">
-   <img src="[https://link-to-your-photo.jpg](https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68517827d0c795488f9a8d5d_ISLAM%20MAKHACHEV-p-2000.webp)" align="right" width="25%" />
+   <img src="[[https://link-to-your-photo.jpg](https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68517827d0c795488f9a8d5d_ISLAM%20MAKHACHEV-p-2000.webp)](https://cdn.prod.website-files.com/677a760f8084966769f9d49c/68517827d0c795488f9a8d5d_ISLAM%20MAKHACHEV-p-2000.webp)" align="right" width="25%" />
 </a>
 
 <!-- Ferris Gif (you can keep or remove) -->
